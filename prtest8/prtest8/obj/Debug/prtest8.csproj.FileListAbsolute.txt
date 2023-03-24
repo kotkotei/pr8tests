@@ -1,0 +1,9 @@
+C:\Users\1\source\repos\prtest8\prtest8\bin\Debug\prtest8.exe.config
+C:\Users\1\source\repos\prtest8\prtest8\bin\Debug\prtest8.exe
+C:\Users\1\source\repos\prtest8\prtest8\bin\Debug\prtest8.pdb
+C:\Users\1\source\repos\prtest8\prtest8\obj\Debug\prtest8.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\prtest8\prtest8\obj\Debug\prtest8.Properties.Resources.resources
+C:\Users\1\source\repos\prtest8\prtest8\obj\Debug\prtest8.csproj.GenerateResource.cache
+C:\Users\1\source\repos\prtest8\prtest8\obj\Debug\prtest8.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\prtest8\prtest8\obj\Debug\prtest8.exe
+C:\Users\1\source\repos\prtest8\prtest8\obj\Debug\prtest8.pdb
